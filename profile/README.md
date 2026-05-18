@@ -1,4 +1,4 @@
-# PromptPHP
+# Prompt PHP
 
 [PromptPHP](https://promptphp.com) is a suite of tools for bringing AI into modern PHP applications.
 
