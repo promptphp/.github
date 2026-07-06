@@ -5,33 +5,10 @@ If you believe you have found a security vulnerability in this library, we encou
 > [!important]
 > Please do not open public issues for vulnerabilities.
 
-We will investigate all legitimate reports and do our best to quickly fix the problem.
+We will investigate all legitimate reports and do our best to quickly fix the problem. Please report it privately using one of the following channels:
 
-Email [promptphposs@gmail.com](promptphposs@gmail.com) to disclose any security vulnerabilities.
+1. **GitHub Private Vulnerability Reporting** (preferred) — go to the repository's **Security and quality** tab and click **"Report a vulnerability"**. This creates a private advisory visible only to maintainers and provides a structured workflow for triage, fix coordination, and CVE assignment.
 
-Security-related reports should include
+2. **Email** — send the details to Nuno Maduro at **[promptphposs@gmail.com](promptphposs@gmail.com)**.
 
-- affected library
-- affected version or commit
-- reproduction steps
-- expected behaviour
-- actual behaviour
-- possible impact
-- suggested fix if known
-
-## False positives and false negatives
-
-Security and privacy libraries may produce false positives or false negatives.
-
-When reporting one, please include
-
-- the librqary name
-- the input that triggered or bypassed detection
-- expected behaviour
-- actual behaviour
-- relevant config
-- whether the input is safe to share publicly
-
-Do not share real secrets, personal data, API keys, or private customer content in issues.
-
-Use fake examples where possible.
+All security vulnerabilities will be promptly addressed.
