@@ -7,7 +7,7 @@ If you believe you have found a security vulnerability in this library, we encou
 
 We will investigate all legitimate reports and do our best to quickly fix the problem.
 
-Email [victorjohnukam@gmail.com](victorjohnukam@gmail.com) to disclose any security vulnerabilities.
+Email [promptphposs@gmail.com](promptphposs@gmail.com) to disclose any security vulnerabilities.
 
 Security-related reports should include
 
