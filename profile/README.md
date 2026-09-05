@@ -1,6 +1,6 @@
 # PromptPHP Labs
 
-At [PromptPHP Labs](https://promptphp.com), we're building a suite of tools for bringing AI into modern `PHP` applications.
+We're building a suite of tools for bringing AI into modern `PHP` applications.
 
 Whether you're building chat experiences, intelligent SaaS features, developer tooling, automated
 business workflows, or experimental side projects, [PromptPHP Labs](https://promptphp.com) help you move
